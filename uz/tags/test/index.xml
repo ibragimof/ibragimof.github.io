@@ -2,11 +2,11 @@
 &lt;h2 id="test-qism"&gt;Test qism&lt;/h2&gt;
 &lt;p&gt;Bu oddiy test.
 &lt;img loading="lazy" src="assets/post.uz.md/file-20260129200558690.png"&gt;&lt;/p&gt;
-&lt;div class="encrypted-content" data-id="1769699202"&gt;
+&lt;div class="encrypted-content" data-id="1769699376"&gt;
 &lt;div class="password-prompt"&gt;
 &lt;p&gt;🔒 Restricted content!&lt;/p&gt;
-&lt;input type="password" placeholder="Enter secret key" class="pwd-input" data-password="123" data-target="1769699202"&gt;
-&lt;button class="decrypt-btn" data-target="1769699202"&gt;Show&lt;/button&gt;
+&lt;input type="password" placeholder="Enter secret key" class="pwd-input" data-password="123" data-target="1769699376"&gt;
+&lt;button class="decrypt-btn" data-target="1769699376"&gt;Show&lt;/button&gt;
 &lt;p class="error" style="color:red;display:none;"&gt;❌ Incorrect key!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="decrypted-content" style="display:none;"&gt;
@@ -82,11 +82,11 @@ font-weight: bold;
 &lt;/style&gt;
 &lt;p&gt;Yana ochiq qism.&lt;/p&gt;</description></item><item><title>Test uchun</title><link>https://ibragimof.github.io/uz/posts/encrypted-test/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://ibragimof.github.io/uz/posts/encrypted-test/</guid><description>&lt;p&gt;Test uchun bu matnni q va g&amp;rsquo; harflari bilan yozamiz.
 Balki keyingi urinishlarimizda bu foyda beradi! va hokazo&lt;/p&gt;
-&lt;div class="encrypted-content" data-id="1769699202"&gt;
+&lt;div class="encrypted-content" data-id="1769699376"&gt;
 &lt;div class="password-prompt"&gt;
 &lt;p&gt;🔒 Restricted content!&lt;/p&gt;
-&lt;input type="password" placeholder="Enter secret key" class="pwd-input" data-password="123" data-target="1769699202"&gt;
-&lt;button class="decrypt-btn" data-target="1769699202"&gt;Show&lt;/button&gt;
+&lt;input type="password" placeholder="Enter secret key" class="pwd-input" data-password="123" data-target="1769699376"&gt;
+&lt;button class="decrypt-btn" data-target="1769699376"&gt;Show&lt;/button&gt;
 &lt;p class="error" style="color:red;display:none;"&gt;❌ Incorrect key!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="decrypted-content" style="display:none;"&gt;
