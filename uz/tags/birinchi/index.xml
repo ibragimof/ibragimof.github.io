@@ -2,11 +2,11 @@
 &lt;h2 id="test-qism"&gt;Test qism&lt;/h2&gt;
 &lt;p&gt;Bu oddiy test.
 &lt;img loading="lazy" src="static/png/file-20260129202256778.png"&gt;&lt;/p&gt;
-&lt;div class="encrypted-content" data-id="1769700650"&gt;
+&lt;div class="encrypted-content" data-id="1769700945"&gt;
 &lt;div class="password-prompt"&gt;
 &lt;p&gt;🔒 Restricted content!&lt;/p&gt;
-&lt;input type="password" placeholder="Enter secret key" class="pwd-input" data-password="123" data-target="1769700650"&gt;
-&lt;button class="decrypt-btn" data-target="1769700650"&gt;Show&lt;/button&gt;
+&lt;input type="password" placeholder="Enter secret key" class="pwd-input" data-password="123" data-target="1769700945"&gt;
+&lt;button class="decrypt-btn" data-target="1769700945"&gt;Show&lt;/button&gt;
 &lt;p class="error" style="color:red;display:none;"&gt;❌ Incorrect key!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="decrypted-content" style="display:none;"&gt;
