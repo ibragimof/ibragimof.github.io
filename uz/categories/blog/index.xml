@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blog on Ramazon</title><link>https://ibragimof.github.io/uz/categories/blog/</link><description>Recent content in Blog on Ramazon</description><generator>Hugo -- 0.155.0</generator><language>uz</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ibragimof.github.io/uz/categories/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Birinchi postim</title><link>https://ibragimof.github.io/uz/posts/post/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://ibragimof.github.io/uz/posts/post/</guid><description>&lt;p&gt;Bu mening birinchi postim Obsidian orqali!&lt;/p&gt;
 &lt;h2 id="test-qism"&gt;Test qism&lt;/h2&gt;
 &lt;p&gt;Bu oddiy test.
-&lt;img loading="lazy" src="assets/post.uz.md/file-20260129200558690.png"&gt;&lt;/p&gt;
-&lt;div class="encrypted-content" data-id="1769699735"&gt;
+&lt;img loading="lazy" src="static/png/file-20260129200558690.png"&gt;&lt;/p&gt;
+&lt;div class="encrypted-content" data-id="1769699859"&gt;
 &lt;div class="password-prompt"&gt;
 &lt;p&gt;🔒 Restricted content!&lt;/p&gt;
-&lt;input type="password" placeholder="Enter secret key" class="pwd-input" data-password="123" data-target="1769699735"&gt;
-&lt;button class="decrypt-btn" data-target="1769699735"&gt;Show&lt;/button&gt;
+&lt;input type="password" placeholder="Enter secret key" class="pwd-input" data-password="123" data-target="1769699859"&gt;
+&lt;button class="decrypt-btn" data-target="1769699859"&gt;Show&lt;/button&gt;
 &lt;p class="error" style="color:red;display:none;"&gt;❌ Incorrect key!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="decrypted-content" style="display:none;"&gt;
