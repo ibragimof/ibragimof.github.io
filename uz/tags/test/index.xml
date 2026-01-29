@@ -1,10 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Test on Ramazon</title><link>https://ibragimof.github.io/uz/tags/test/</link><description>Recent content in Test on Ramazon</description><generator>Hugo -- 0.155.0</generator><language>uz</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ibragimof.github.io/uz/tags/test/index.xml" rel="self" type="application/rss+xml"/><item><title>Test uchun</title><link>https://ibragimof.github.io/uz/posts/encrypted-test/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://ibragimof.github.io/uz/posts/encrypted-test/</guid><description>&lt;p&gt;Test uchun bu matnni q va g&amp;rsquo; harflari bilan yozamiz.
-Balki keyingi urinishlarimizda bu foyda beradi! va hokazo&lt;/p&gt;
-&lt;div class="encrypted-content" data-id="1769697022"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Test on Ramazon</title><link>https://ibragimof.github.io/uz/tags/test/</link><description>Recent content in Test on Ramazon</description><generator>Hugo -- 0.155.0</generator><language>uz</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ibragimof.github.io/uz/tags/test/index.xml" rel="self" type="application/rss+xml"/><item><title>Birinchi postim</title><link>https://ibragimof.github.io/uz/posts/post/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://ibragimof.github.io/uz/posts/post/</guid><description>&lt;p&gt;Bu mening birinchi postim Obsidian orqali!&lt;/p&gt;
+&lt;h2 id="test-qism"&gt;Test qism&lt;/h2&gt;
+&lt;p&gt;Bu oddiy test.&lt;/p&gt;
+&lt;div class="encrypted-content" data-id="1769697382"&gt;
 &lt;div class="password-prompt"&gt;
 &lt;p&gt;🔒 Restricted content!&lt;/p&gt;
-&lt;input type="password" placeholder="Enter secret key" class="pwd-input" data-password="123" data-target="1769697022"&gt;
-&lt;button class="decrypt-btn" data-target="1769697022"&gt;Show&lt;/button&gt;
+&lt;input type="password" placeholder="Enter secret key" class="pwd-input" data-password="123" data-target="1769697382"&gt;
+&lt;button class="decrypt-btn" data-target="1769697382"&gt;Show&lt;/button&gt;
+&lt;p class="error" style="color:red;display:none;"&gt;❌ Incorrect key!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="decrypted-content" style="display:none;"&gt;
+&lt;h2 id="maxfiy-malumot"&gt;Maxfiy ma&amp;rsquo;lumot&lt;/h2&gt;
+&lt;p&gt;Bu maxfiy qism! Parol: parol123&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+(function() {
+const containers = document.querySelectorAll('.encrypted-content');
+containers.forEach(function(container) {
+const input = container.querySelector('.pwd-input');
+const button = container.querySelector('.decrypt-btn');
+const error = container.querySelector('.error');
+const content = container.querySelector('.decrypted-content');
+const prompt = container.querySelector('.password-prompt');
+const correctPassword = input.getAttribute('data-password');
+function checkPassword() {
+if (input.value === correctPassword) {
+content.style.display = 'block';
+prompt.style.display = 'none';
+error.style.display = 'none';
+} else {
+error.style.display = 'block';
+}
+}
+button.addEventListener('click', checkPassword);
+input.addEventListener('keypress', function(e) {
+if (e.key === 'Enter') {
+checkPassword();
+}
+});
+});
+})();
+&lt;/script&gt;
+&lt;style&gt;
+.encrypted-content {
+border: 2px solid #ddd;
+padding: 20px;
+margin: 20px 0;
+border-radius: 8px;
+background: var(--entry);
+}
+.password-prompt {
+text-align: center;
+}
+.password-prompt input {
+padding: 10px;
+margin: 10px;
+border: 1px solid var(--border);
+border-radius: 4px;
+width: 200px;
+background: var(--entry);
+color: var(--content);
+font-size: 16px;
+}
+.password-prompt button {
+padding: 10px 20px;
+background: var(--primary);
+color: var(--theme);
+border: none;
+border-radius: 4px;
+cursor: pointer;
+font-size: 16px;
+}
+.password-prompt button:hover {
+opacity: 0.8;
+}
+.error {
+margin-top: 10px;
+font-weight: bold;
+}
+&lt;/style&gt;
+&lt;p&gt;Yana ochiq qism.&lt;/p&gt;</description></item><item><title>Test uchun</title><link>https://ibragimof.github.io/uz/posts/encrypted-test/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://ibragimof.github.io/uz/posts/encrypted-test/</guid><description>&lt;p&gt;Test uchun bu matnni q va g&amp;rsquo; harflari bilan yozamiz.
+Balki keyingi urinishlarimizda bu foyda beradi! va hokazo&lt;/p&gt;
+&lt;div class="encrypted-content" data-id="1769697382"&gt;
+&lt;div class="password-prompt"&gt;
+&lt;p&gt;🔒 Restricted content!&lt;/p&gt;
+&lt;input type="password" placeholder="Enter secret key" class="pwd-input" data-password="123" data-target="1769697382"&gt;
+&lt;button class="decrypt-btn" data-target="1769697382"&gt;Show&lt;/button&gt;
 &lt;p class="error" style="color:red;display:none;"&gt;❌ Incorrect key!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="decrypted-content" style="display:none;"&gt;
